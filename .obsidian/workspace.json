@@ -11,10 +11,48 @@
             "id": "99a5a0c4751a94d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Roadmap"
+            }
+          },
+          {
+            "id": "519f5dc3c5ddc64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3afba27cfb126476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705795fa8a702538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -158,23 +196,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99a5a0c4751a94d0",
+  "active": "705795fa8a702538",
   "lastOpenFiles": [
-    "README.md",
-    "2024-12-19.md",
-    "Git/Git.md",
-    "Raw Notes.md",
-    "Daily To-Do(s)/2024-12-19.md",
     "Roadmap.md",
-    "Untitled.canvas",
+    "README.md",
     "Site for Sharkb.md",
+    "Bash/Bash.md",
+    "Daily To-Do(s)/2024-12-19.md",
+    "Daily list.md",
     "markdown-cheat-sheet.md",
+    "Raw Notes.md",
+    "Git/References.md",
+    "Bash",
+    "Git/Merge, Rebase, and Squash Commit.md",
     "Git/GitHub Actions.md",
+    "Git/Git.md",
+    "2024-12-19.md",
+    "Untitled.canvas",
     "Daily To-Do(s)",
     "Welcome.md",
-    "Git/Merge, Rebase, and Squash Commit.md",
     "Git/images/Pros Cons Git Workflow.png",
-    "Git/References.md",
     "Git/images/Git Merge.png",
     "Git/images/Git Merge2.png",
     "Git/images/Git Diagram3.png",
