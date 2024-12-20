@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "fcde6394ea8c7d8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4afb5badea22be85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a5a0c4751a94d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c004be308eb55229",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3a44ac797a5df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58c5db82aa84904d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7c070e63cd0fddb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e02a3b52de3fc144",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9617f5faf8556ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3421cffdb7c3efc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369c246b8d0d837f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap"
+            }
+          },
+          {
+            "id": "a7a24c247f1fd0ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap"
+            }
+          },
+          {
+            "id": "e5f7752887d2793a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "afbbe402cf4336ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99a5a0c4751a94d0",
+  "lastOpenFiles": [
+    "2024-12-19.md",
+    "Git/Git.md",
+    "Raw Notes.md",
+    "Daily To-Do(s)/2024-12-19.md",
+    "Roadmap.md",
+    "Untitled.canvas",
+    "Site for Sharkb.md",
+    "markdown-cheat-sheet.md",
+    "Git/GitHub Actions.md",
+    "Daily To-Do(s)",
+    "Welcome.md",
+    "Git/Merge, Rebase, and Squash Commit.md",
+    "Git/images/Pros Cons Git Workflow.png",
+    "Git/References.md",
+    "Git/images/Git Merge.png",
+    "Git/images/Git Merge2.png",
+    "Git/images/Git Diagram3.png",
+    "Git/images/Git Diagram2.png",
+    "Git/images/Git Diagram.png",
+    "Git/images",
+    "Git"
+  ]
+}
